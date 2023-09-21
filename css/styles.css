@@ -1,0 +1,26 @@
+:root {
+    --ww-green:#008036;
+    --ww-yellow:#fad02c;
+}
+
+body {
+    background-color: var(--ww-green);
+}
+
+#worker-wasp {
+    height: 15%;
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+#banner {
+    color: var(--ww-yellow);
+    background-color: rgba(0, 0, 0, 0.65);
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
